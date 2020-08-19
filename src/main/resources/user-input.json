@@ -1,0 +1,2502 @@
+[
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 1"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 2"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 1"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 2"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 1"
+      }
+    ]
+  },
+  {
+    "pricingDate": "21-07-2020",
+    "parts": [
+      {
+        "component": "FRAME",
+        "partName": "Part 2"
+      },
+      {
+        "component": "HANDLE_BAR_WITH_BRAKES",
+        "partName": "Part 1"
+      },
+      {
+        "component": "SEATING",
+        "partName": "Part 2"
+      },
+      {
+        "component": "WHEELS",
+        "partName": "Part 1"
+      },
+      {
+        "component": "CHAIN_ASSEMBLY",
+        "partName": "Part 2"
+      }
+    ]
+  }
+]

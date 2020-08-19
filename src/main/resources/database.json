@@ -1,0 +1,1082 @@
+[
+  {
+    "partPrice": 93,
+    "months": "Jan",
+    "highLevelComponent": "FRAME",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 42,
+    "months": "Jan",
+    "highLevelComponent": "FRAME",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 92,
+    "months": "Jan",
+    "highLevelComponent": "FRAME",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 9,
+    "months": "Jan",
+    "highLevelComponent": "HANDLE_BAR_WITH_BRAKES",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 67,
+    "months": "Jan",
+    "highLevelComponent": "HANDLE_BAR_WITH_BRAKES",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 98,
+    "months": "Jan",
+    "highLevelComponent": "HANDLE_BAR_WITH_BRAKES",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 18,
+    "months": "Jan",
+    "highLevelComponent": "SEATING",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 83,
+    "months": "Jan",
+    "highLevelComponent": "SEATING",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 19,
+    "months": "Jan",
+    "highLevelComponent": "SEATING",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 26,
+    "months": "Jan",
+    "highLevelComponent": "WHEELS",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 75,
+    "months": "Jan",
+    "highLevelComponent": "WHEELS",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 78,
+    "months": "Jan",
+    "highLevelComponent": "WHEELS",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 51,
+    "months": "Jan",
+    "highLevelComponent": "CHAIN_ASSEMBLY",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 53,
+    "months": "Jan",
+    "highLevelComponent": "CHAIN_ASSEMBLY",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 62,
+    "months": "Jan",
+    "highLevelComponent": "CHAIN_ASSEMBLY",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 76,
+    "months": "Feb",
+    "highLevelComponent": "FRAME",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 22,
+    "months": "Feb",
+    "highLevelComponent": "FRAME",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 74,
+    "months": "Feb",
+    "highLevelComponent": "FRAME",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 13,
+    "months": "Feb",
+    "highLevelComponent": "HANDLE_BAR_WITH_BRAKES",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 40,
+    "months": "Feb",
+    "highLevelComponent": "HANDLE_BAR_WITH_BRAKES",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 2,
+    "months": "Feb",
+    "highLevelComponent": "HANDLE_BAR_WITH_BRAKES",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 15,
+    "months": "Feb",
+    "highLevelComponent": "SEATING",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 5,
+    "months": "Feb",
+    "highLevelComponent": "SEATING",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 48,
+    "months": "Feb",
+    "highLevelComponent": "SEATING",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 86,
+    "months": "Feb",
+    "highLevelComponent": "WHEELS",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 52,
+    "months": "Feb",
+    "highLevelComponent": "WHEELS",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 77,
+    "months": "Feb",
+    "highLevelComponent": "WHEELS",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 1,
+    "months": "Feb",
+    "highLevelComponent": "CHAIN_ASSEMBLY",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 90,
+    "months": "Feb",
+    "highLevelComponent": "CHAIN_ASSEMBLY",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 38,
+    "months": "Feb",
+    "highLevelComponent": "CHAIN_ASSEMBLY",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 39,
+    "months": "Mar",
+    "highLevelComponent": "FRAME",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 59,
+    "months": "Mar",
+    "highLevelComponent": "FRAME",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 19,
+    "months": "Mar",
+    "highLevelComponent": "FRAME",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 54,
+    "months": "Mar",
+    "highLevelComponent": "HANDLE_BAR_WITH_BRAKES",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 16,
+    "months": "Mar",
+    "highLevelComponent": "HANDLE_BAR_WITH_BRAKES",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 91,
+    "months": "Mar",
+    "highLevelComponent": "HANDLE_BAR_WITH_BRAKES",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 61,
+    "months": "Mar",
+    "highLevelComponent": "SEATING",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 46,
+    "months": "Mar",
+    "highLevelComponent": "SEATING",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 37,
+    "months": "Mar",
+    "highLevelComponent": "SEATING",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 91,
+    "months": "Mar",
+    "highLevelComponent": "WHEELS",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 99,
+    "months": "Mar",
+    "highLevelComponent": "WHEELS",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 32,
+    "months": "Mar",
+    "highLevelComponent": "WHEELS",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 55,
+    "months": "Mar",
+    "highLevelComponent": "CHAIN_ASSEMBLY",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 44,
+    "months": "Mar",
+    "highLevelComponent": "CHAIN_ASSEMBLY",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 43,
+    "months": "Mar",
+    "highLevelComponent": "CHAIN_ASSEMBLY",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 88,
+    "months": "Apr",
+    "highLevelComponent": "FRAME",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 72,
+    "months": "Apr",
+    "highLevelComponent": "FRAME",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 83,
+    "months": "Apr",
+    "highLevelComponent": "FRAME",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 10,
+    "months": "Apr",
+    "highLevelComponent": "HANDLE_BAR_WITH_BRAKES",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 66,
+    "months": "Apr",
+    "highLevelComponent": "HANDLE_BAR_WITH_BRAKES",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 75,
+    "months": "Apr",
+    "highLevelComponent": "HANDLE_BAR_WITH_BRAKES",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 41,
+    "months": "Apr",
+    "highLevelComponent": "SEATING",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 8,
+    "months": "Apr",
+    "highLevelComponent": "SEATING",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 14,
+    "months": "Apr",
+    "highLevelComponent": "SEATING",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 77,
+    "months": "Apr",
+    "highLevelComponent": "WHEELS",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 71,
+    "months": "Apr",
+    "highLevelComponent": "WHEELS",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 16,
+    "months": "Apr",
+    "highLevelComponent": "WHEELS",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 92,
+    "months": "Apr",
+    "highLevelComponent": "CHAIN_ASSEMBLY",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 76,
+    "months": "Apr",
+    "highLevelComponent": "CHAIN_ASSEMBLY",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 54,
+    "months": "Apr",
+    "highLevelComponent": "CHAIN_ASSEMBLY",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 49,
+    "months": "May",
+    "highLevelComponent": "FRAME",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 36,
+    "months": "May",
+    "highLevelComponent": "FRAME",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 17,
+    "months": "May",
+    "highLevelComponent": "FRAME",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 66,
+    "months": "May",
+    "highLevelComponent": "HANDLE_BAR_WITH_BRAKES",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 71,
+    "months": "May",
+    "highLevelComponent": "HANDLE_BAR_WITH_BRAKES",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 28,
+    "months": "May",
+    "highLevelComponent": "HANDLE_BAR_WITH_BRAKES",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 52,
+    "months": "May",
+    "highLevelComponent": "SEATING",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 87,
+    "months": "May",
+    "highLevelComponent": "SEATING",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 80,
+    "months": "May",
+    "highLevelComponent": "SEATING",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 62,
+    "months": "May",
+    "highLevelComponent": "WHEELS",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 17,
+    "months": "May",
+    "highLevelComponent": "WHEELS",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 37,
+    "months": "May",
+    "highLevelComponent": "WHEELS",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 41,
+    "months": "May",
+    "highLevelComponent": "CHAIN_ASSEMBLY",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 61,
+    "months": "May",
+    "highLevelComponent": "CHAIN_ASSEMBLY",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 16,
+    "months": "May",
+    "highLevelComponent": "CHAIN_ASSEMBLY",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 21,
+    "months": "Jun",
+    "highLevelComponent": "FRAME",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 28,
+    "months": "Jun",
+    "highLevelComponent": "FRAME",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 98,
+    "months": "Jun",
+    "highLevelComponent": "FRAME",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 59,
+    "months": "Jun",
+    "highLevelComponent": "HANDLE_BAR_WITH_BRAKES",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 35,
+    "months": "Jun",
+    "highLevelComponent": "HANDLE_BAR_WITH_BRAKES",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 33,
+    "months": "Jun",
+    "highLevelComponent": "HANDLE_BAR_WITH_BRAKES",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 22,
+    "months": "Jun",
+    "highLevelComponent": "SEATING",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 35,
+    "months": "Jun",
+    "highLevelComponent": "SEATING",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 72,
+    "months": "Jun",
+    "highLevelComponent": "SEATING",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 84,
+    "months": "Jun",
+    "highLevelComponent": "WHEELS",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 72,
+    "months": "Jun",
+    "highLevelComponent": "WHEELS",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 80,
+    "months": "Jun",
+    "highLevelComponent": "WHEELS",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 89,
+    "months": "Jun",
+    "highLevelComponent": "CHAIN_ASSEMBLY",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 26,
+    "months": "Jun",
+    "highLevelComponent": "CHAIN_ASSEMBLY",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 73,
+    "months": "Jun",
+    "highLevelComponent": "CHAIN_ASSEMBLY",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 78,
+    "months": "Jul",
+    "highLevelComponent": "FRAME",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 88,
+    "months": "Jul",
+    "highLevelComponent": "FRAME",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 99,
+    "months": "Jul",
+    "highLevelComponent": "FRAME",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 3,
+    "months": "Jul",
+    "highLevelComponent": "HANDLE_BAR_WITH_BRAKES",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 6,
+    "months": "Jul",
+    "highLevelComponent": "HANDLE_BAR_WITH_BRAKES",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 98,
+    "months": "Jul",
+    "highLevelComponent": "HANDLE_BAR_WITH_BRAKES",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 10,
+    "months": "Jul",
+    "highLevelComponent": "SEATING",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 9,
+    "months": "Jul",
+    "highLevelComponent": "SEATING",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 54,
+    "months": "Jul",
+    "highLevelComponent": "SEATING",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 4,
+    "months": "Jul",
+    "highLevelComponent": "WHEELS",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 41,
+    "months": "Jul",
+    "highLevelComponent": "WHEELS",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 13,
+    "months": "Jul",
+    "highLevelComponent": "WHEELS",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 82,
+    "months": "Jul",
+    "highLevelComponent": "CHAIN_ASSEMBLY",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 35,
+    "months": "Jul",
+    "highLevelComponent": "CHAIN_ASSEMBLY",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 44,
+    "months": "Jul",
+    "highLevelComponent": "CHAIN_ASSEMBLY",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 66,
+    "months": "Aug",
+    "highLevelComponent": "FRAME",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 59,
+    "months": "Aug",
+    "highLevelComponent": "FRAME",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 87,
+    "months": "Aug",
+    "highLevelComponent": "FRAME",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 32,
+    "months": "Aug",
+    "highLevelComponent": "HANDLE_BAR_WITH_BRAKES",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 62,
+    "months": "Aug",
+    "highLevelComponent": "HANDLE_BAR_WITH_BRAKES",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 65,
+    "months": "Aug",
+    "highLevelComponent": "HANDLE_BAR_WITH_BRAKES",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 43,
+    "months": "Aug",
+    "highLevelComponent": "SEATING",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 24,
+    "months": "Aug",
+    "highLevelComponent": "SEATING",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 75,
+    "months": "Aug",
+    "highLevelComponent": "SEATING",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 42,
+    "months": "Aug",
+    "highLevelComponent": "WHEELS",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 30,
+    "months": "Aug",
+    "highLevelComponent": "WHEELS",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 62,
+    "months": "Aug",
+    "highLevelComponent": "WHEELS",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 21,
+    "months": "Aug",
+    "highLevelComponent": "CHAIN_ASSEMBLY",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 79,
+    "months": "Aug",
+    "highLevelComponent": "CHAIN_ASSEMBLY",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 71,
+    "months": "Aug",
+    "highLevelComponent": "CHAIN_ASSEMBLY",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 21,
+    "months": "Sep",
+    "highLevelComponent": "FRAME",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 69,
+    "months": "Sep",
+    "highLevelComponent": "FRAME",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 54,
+    "months": "Sep",
+    "highLevelComponent": "FRAME",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 87,
+    "months": "Sep",
+    "highLevelComponent": "HANDLE_BAR_WITH_BRAKES",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 47,
+    "months": "Sep",
+    "highLevelComponent": "HANDLE_BAR_WITH_BRAKES",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 3,
+    "months": "Sep",
+    "highLevelComponent": "HANDLE_BAR_WITH_BRAKES",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 97,
+    "months": "Sep",
+    "highLevelComponent": "SEATING",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 22,
+    "months": "Sep",
+    "highLevelComponent": "SEATING",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 51,
+    "months": "Sep",
+    "highLevelComponent": "SEATING",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 46,
+    "months": "Sep",
+    "highLevelComponent": "WHEELS",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 55,
+    "months": "Sep",
+    "highLevelComponent": "WHEELS",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 91,
+    "months": "Sep",
+    "highLevelComponent": "WHEELS",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 57,
+    "months": "Sep",
+    "highLevelComponent": "CHAIN_ASSEMBLY",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 85,
+    "months": "Sep",
+    "highLevelComponent": "CHAIN_ASSEMBLY",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 12,
+    "months": "Sep",
+    "highLevelComponent": "CHAIN_ASSEMBLY",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 54,
+    "months": "Oct",
+    "highLevelComponent": "FRAME",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 6,
+    "months": "Oct",
+    "highLevelComponent": "FRAME",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 60,
+    "months": "Oct",
+    "highLevelComponent": "FRAME",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 63,
+    "months": "Oct",
+    "highLevelComponent": "HANDLE_BAR_WITH_BRAKES",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 53,
+    "months": "Oct",
+    "highLevelComponent": "HANDLE_BAR_WITH_BRAKES",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 5,
+    "months": "Oct",
+    "highLevelComponent": "HANDLE_BAR_WITH_BRAKES",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 12,
+    "months": "Oct",
+    "highLevelComponent": "SEATING",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 76,
+    "months": "Oct",
+    "highLevelComponent": "SEATING",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 58,
+    "months": "Oct",
+    "highLevelComponent": "SEATING",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 61,
+    "months": "Oct",
+    "highLevelComponent": "WHEELS",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 91,
+    "months": "Oct",
+    "highLevelComponent": "WHEELS",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 17,
+    "months": "Oct",
+    "highLevelComponent": "WHEELS",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 53,
+    "months": "Oct",
+    "highLevelComponent": "CHAIN_ASSEMBLY",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 39,
+    "months": "Oct",
+    "highLevelComponent": "CHAIN_ASSEMBLY",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 20,
+    "months": "Oct",
+    "highLevelComponent": "CHAIN_ASSEMBLY",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 62,
+    "months": "Nov",
+    "highLevelComponent": "FRAME",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 87,
+    "months": "Nov",
+    "highLevelComponent": "FRAME",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 45,
+    "months": "Nov",
+    "highLevelComponent": "FRAME",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 15,
+    "months": "Nov",
+    "highLevelComponent": "HANDLE_BAR_WITH_BRAKES",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 13,
+    "months": "Nov",
+    "highLevelComponent": "HANDLE_BAR_WITH_BRAKES",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 76,
+    "months": "Nov",
+    "highLevelComponent": "HANDLE_BAR_WITH_BRAKES",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 39,
+    "months": "Nov",
+    "highLevelComponent": "SEATING",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 3,
+    "months": "Nov",
+    "highLevelComponent": "SEATING",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 44,
+    "months": "Nov",
+    "highLevelComponent": "SEATING",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 5,
+    "months": "Nov",
+    "highLevelComponent": "WHEELS",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 72,
+    "months": "Nov",
+    "highLevelComponent": "WHEELS",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 82,
+    "months": "Nov",
+    "highLevelComponent": "WHEELS",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 34,
+    "months": "Nov",
+    "highLevelComponent": "CHAIN_ASSEMBLY",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 66,
+    "months": "Nov",
+    "highLevelComponent": "CHAIN_ASSEMBLY",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 63,
+    "months": "Nov",
+    "highLevelComponent": "CHAIN_ASSEMBLY",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 14,
+    "months": "Dec",
+    "highLevelComponent": "FRAME",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 47,
+    "months": "Dec",
+    "highLevelComponent": "FRAME",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 93,
+    "months": "Dec",
+    "highLevelComponent": "FRAME",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 66,
+    "months": "Dec",
+    "highLevelComponent": "HANDLE_BAR_WITH_BRAKES",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 21,
+    "months": "Dec",
+    "highLevelComponent": "HANDLE_BAR_WITH_BRAKES",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 59,
+    "months": "Dec",
+    "highLevelComponent": "HANDLE_BAR_WITH_BRAKES",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 60,
+    "months": "Dec",
+    "highLevelComponent": "SEATING",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 83,
+    "months": "Dec",
+    "highLevelComponent": "SEATING",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 72,
+    "months": "Dec",
+    "highLevelComponent": "SEATING",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 67,
+    "months": "Dec",
+    "highLevelComponent": "WHEELS",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 70,
+    "months": "Dec",
+    "highLevelComponent": "WHEELS",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 18,
+    "months": "Dec",
+    "highLevelComponent": "WHEELS",
+    "partName": "Part 3"
+  },
+  {
+    "partPrice": 85,
+    "months": "Dec",
+    "highLevelComponent": "CHAIN_ASSEMBLY",
+    "partName": "Part 1"
+  },
+  {
+    "partPrice": 91,
+    "months": "Dec",
+    "highLevelComponent": "CHAIN_ASSEMBLY",
+    "partName": "Part 2"
+  },
+  {
+    "partPrice": 86,
+    "months": "Dec",
+    "highLevelComponent": "CHAIN_ASSEMBLY",
+    "partName": "Part 3"
+  }
+]
